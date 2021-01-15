@@ -1,0 +1,13 @@
+body {
+    background-color: whitesmoke;
+}
+.content {
+    margin: 20px;
+}
+h1 {
+    line-height: 2.5;
+}
+.jumbotron {
+    padding: 60px;
+    padding-top: 20px;
+}
